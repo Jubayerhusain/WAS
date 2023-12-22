@@ -19,6 +19,9 @@ header h1{
     padding: 7px 15px;
     color: #07ff07;
 }
+.upperText{
+    color: #07ff07;
+}
 div{
     width: 80%;
     height: 200px;
