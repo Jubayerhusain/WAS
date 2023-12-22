@@ -10,14 +10,14 @@
 header{
     width: 100%;
     margin: auto;
-    background-color:#000000;
+    background-color:#000000fb;
     border-radius: 0px;
 }
 header h1{
     font-size: 35px;
     text-align: right;
     padding: 7px 15px;
-    color: green;
+    color: #07ff07;
 }
 div{
     width: 80%;
@@ -32,11 +32,13 @@ div{
     font-size: 30px;
 }
 .servise_section{
-    background-color: tan;
+    background-color: #713c3cfb;
     width: 80%;
     display: flex;
+    color: #07ff07;
 }
 .servise_section .servise1{
     width: 20%;
+    background-color: #000000fb;
 
 }
