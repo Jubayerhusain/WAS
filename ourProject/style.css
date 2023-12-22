@@ -37,11 +37,13 @@ div{
 .servise_section{
     background-color: #000000fb;
     width: 80%;
+    height: fit-content;
     display: flex;
     color: #07ff07;
 }
 .servise_section .servise1{
     width: 20%;
+    margin-top: 2px;
     background-color: #ffff;
     color: #07ff07;
 
